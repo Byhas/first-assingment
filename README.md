@@ -1,1 +1,1 @@
-# the rar file contain a pdf explanation fiel with all codes
+# the rar file contain a pdf explanation file with all codes
